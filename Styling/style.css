@@ -1,3 +1,6 @@
+body{
+    background-color: bisque;
+}
 /* Membuat Class Selector */
 .judul{
     font-family: 'Times New Roman', Times, serif;
